@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/26865534/116880216-b515b700-ac5c-11eb-8dc9-f3bfb318945f.gif" width="40%">
 
-## Overview
+## Description
 Catmull–Rom Spline補完
 
 https://zenn.dev/mushe/articles/92c65e0c8023aa
