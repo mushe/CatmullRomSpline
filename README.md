@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/26865534/116880567-205f8900-ac5d-11eb-9fc2-9fe7e4351078.png" width="50%">
 
-<img src="https://user-images.githubusercontent.com/26865534/116880216-b515b700-ac5c-11eb-8dc9-f3bfb318945f.gif" width="30%">
+<img src="https://user-images.githubusercontent.com/26865534/116880216-b515b700-ac5c-11eb-8dc9-f3bfb318945f.gif" width="40%">
 
 ## Overview
 Catmull–Rom Spline補完
