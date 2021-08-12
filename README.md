@@ -9,7 +9,7 @@ Catmull–Rom Spline補間
 
 https://zenn.dev/mushe/articles/92c65e0c8023aa
 
-## Reference
+## References
 ・Doyub Kim, "Fluid Engine Development", A K Peters/CRC Press, 2017
 
 https://www.amazon.co.jp/-/en/Doyub-Kim-ebook/dp/B01MRDA6S8
